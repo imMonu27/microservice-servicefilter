@@ -1,0 +1,65 @@
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.csproj.AssemblyReference.cache
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.AssemblyInfoInputs.cache
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.AssemblyInfo.cs
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.csproj.CoreCompileInputs.cache
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\msvcp140.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Employe Management System.exe
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Employe Management System.deps.json
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Employe Management System.runtimeconfig.json
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Employe Management System.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Employe Management System.pdb
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\EPPlus.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\staticwebassets\msbuild.Employe Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Employe Management System.props
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employe Management System.props
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employe Management System.props
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\scopedcss\bundle\Employe Management System.styles.css
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe .A63B75A1.Up2Date
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\refint\Employe Management System.dll
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.pdb
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\Employe Management System.genruntimeconfig.cache
+C:\Users\mohit\source\repos\Employe Management System\Employe Management System\obj\Debug\net8.0\ref\Employe Management System.dll
